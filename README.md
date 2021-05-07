@@ -3,3 +3,4 @@
 
 # H4XOR-News
 
+This app helps fetch data from hacker new webisite using algolia API, it was mainly built to understand networking and API implimentation in Swift UI.
